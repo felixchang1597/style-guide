@@ -1,0 +1,39 @@
+// @import '/resources/scss/utilities/variables';
+
+/* ============================================= */
+
+
+/*              Buttons                          */
+
+
+/* ============================================= */
+
+.btn {
+    margin-top: 15px;
+    width: 100%;
+    color: $white;
+    border: none;
+    padding: 10px 0;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.default {
+    background-color: $blue;
+}
+
+.error {
+    background-color: $error;
+}
+
+.info {
+    background-color: #927bc1;
+}
+
+.success {
+    background-color: #63cc82;
+}
+
+.warning {
+    background-color: $warning;
+}
